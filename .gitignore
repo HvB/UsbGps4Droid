@@ -1,5 +1,10 @@
-/bin
-/gen
-#*.dex
-#*.apk
-#resources.ap_
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+.idea
+/build
+/captures
+.externalNativeBuild
